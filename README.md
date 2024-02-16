@@ -1,18 +1,39 @@
-# Đặt hàng - Công Ty Cổ Phần Xuất Nhập Hoá Chất Miền Nam
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-Chào mừng bạn đến với trang đặt hàng của Công Ty Cổ Phần Xuất Nhập Hoá Chất Miền Nam. Để đặt hàng, vui lòng nhấp vào liên kết bên dưới:
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
 
-[Đặt hàng](link_to_order_page)
+main {
+  padding: 20px;
+}
 
-## Thông tin đơn đặt hàng
+h1, h2 {
+  color: #333;
+}
 
-Để đặt hàng, vui lòng điền vào biểu mẫu dưới đây:
+.btn-order {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
 
-- **Tên khách hàng**: [Nhập tên của bạn]
-- **Sản phẩm**: [Nhập sản phẩm bạn muốn đặt hàng]
-- **Số lượng**: [Nhập số lượng bạn muốn đặt hàng]
-- **Nơi lấy hàng**: [Nhập địa chỉ hoặc thông tin nơi lấy hàng của bạn]
+.btn-order:hover {
+  background-color: #45a049;
+}
 
----
-
-© 2024 Công Ty Cổ Phần Xuất Nhập Hoá Chất Miền Nam. Tất cả các quyền được bảo lưu.
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
