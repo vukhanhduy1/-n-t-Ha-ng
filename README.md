@@ -2,7 +2,7 @@
 
 Chào mừng bạn đến với trang đặt hàng của Công Ty Cổ Phần Xuất Nhập Hoá Chất Miền Nam. Để đặt hàng, vui lòng nhấp vào liên kết bên dưới:
 
-[Đặt hàng](link_to_order_page)
+[**Đặt hàng**](https://your-website.com)
 
 ## Thông tin đơn đặt hàng
 
